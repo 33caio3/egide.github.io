@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #1f2937;
+}
+
+#header{
+    font-family: "SoDo Sans SemiBold",Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    margin-top: 100px;
+    color: whitesmoke;
+}
+
+#header li{
+    margin-left: 120px;
+}
+
+.link{
+    margin-top: 10px;
+}
+
+.link a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 10px;
+    margin-left: 20px;
+    letter-spacing: 2px;
+    font-family: "SoDo Sans SemiBold",Arial, Helvetica, sans-serif;
+}
